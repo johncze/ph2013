@@ -1,0 +1,17 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+php/nbproject/*
+
+pids
+logs
+results
+
+npm-debug.log
+# nemusi byt v gitignore resi "npm rebuild"
+node_modules
